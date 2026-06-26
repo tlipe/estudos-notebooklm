@@ -164,21 +164,3 @@ Abaixo estão listados prompts que podem ser utilizados para revisão e aprofund
 ```
 
 ---
-
-## Considerações Finais
-
-Este projeto demonstrou a importância de combinar pensamento crítico, curadoria de qualidade e domínio de ferramentas de IA para produção de conhecimento estruturado. O uso do NotebookLM, aliado a uma abordagem metodológica de engenharia de prompts, permitiu transformar um conjunto de fontes dispersas em um material coeso e pronto para consulta futura.
-
-A documentação deste processo no GitHub reforça o compromisso com a transparência, a reprodutibilidade e a construção de um portfólio técnico que evidencia não apenas os resultados, mas também o raciocínio e as iterações que levaram até eles.
-
----
-
-## Referências
-
-As fontes utilizadas neste projeto estão listadas na seção "Curadoria de Fontes" e permanecem disponíveis para consulta através dos links fornecidos. Este repositório serve como registro do processo de aprendizagem e pode ser utilizado como referência para futuros estudos sobre Inteligência Artificial aplicada à educação.
-
----
-
-**Autor:** Estudante DIO  
-**Data de Conclusão:** 2024  
-**Curso:** DIO – Inteligência Artificial como Ferramenta de Aprendizagem Ativa
